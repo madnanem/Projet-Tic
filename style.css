@@ -1,0 +1,60 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(23, 45, 77);
+}
+
+h3
+{
+    margin: 20px 10px;
+    background-color: rgb(245, 235, 235);
+    width: 192px;
+    padding: 4px 5px;
+    border-radius: 10px;
+}
+
+table
+{
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+
+th, td 
+{
+    border: 1px solid black;
+    background-color: #248ac1bd;
+    padding: 2px 4px;
+    text-align: left;
+}
+
+th{
+    background-color: rgb(93, 150, 131);
+}
+
+li
+{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    height: 10vh; 
+    background: skyblue;
+    border-top: 1px solid;
+
+}
+
+p
+{
+    font-size: 0.7rem;
+    text-align: end;
+    margin-right: 10px;
+}
+ 
+a
+{
+    background-color: transparent;
+    font-weight: bold;
+
+}
